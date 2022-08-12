@@ -1,0 +1,15 @@
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.csproj.AssemblyReference.cache
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.AssemblyInfoInputs.cache
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.AssemblyInfo.cs
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.csproj.CoreCompileInputs.cache
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/bin/Debug/net6.0/variableAssignment
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/bin/Debug/net6.0/variableAssignment.deps.json
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/bin/Debug/net6.0/variableAssignment.runtimeconfig.json
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/bin/Debug/net6.0/variableAssignment.dll
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/bin/Debug/net6.0/variableAssignment.pdb
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.dll
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/refint/variableAssignment.dll
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.pdb
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/variableAssignment.genruntimeconfig.cache
+/Users/jeremytucker/Desktop/Repos/Variable/variableAssignment/obj/Debug/net6.0/ref/variableAssignment.dll
